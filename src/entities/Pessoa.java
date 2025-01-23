@@ -56,11 +56,11 @@ public class Pessoa{
     }
     
     public void mostrarDados() {
-        System.out.println("Nome: " + getNome());
-        System.out.println("Idade: " + getIdade());
-        System.out.println("Sexo: " + getSexo());
-        System.out.println("Altura: " + getAltura() + " m");
-        System.out.println("Peso: " + getPeso() + " kg");
+        System.out.println("Name: " + getNome());
+        System.out.println("Age: " + getIdade());
+        System.out.println("Sex: " + getSexo());
+        System.out.println("Height: " + getAltura() + " m");
+        System.out.println("Wheight: " + getPeso() + " kg");
         System.out.println();
     }
 }
